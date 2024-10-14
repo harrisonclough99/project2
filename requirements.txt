@@ -1,0 +1,33 @@
+# Data manipulation and analysis
+pandas
+numpy
+wheel
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Machine learning and algorithms
+scikit-learn
+xgboost
+lightgbm
+
+
+# tensorflow[and-c  uda]
+keras
+tensorflow
+
+# Natural Language Processing
+nltk
+# spacy
+
+# Deep Learning
+transformers
+
+# Data handling and storage
+sqlalchemy
+
+# Misc
+black
+websockets~=13.1
